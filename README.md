@@ -1,3 +1,8 @@
+<h1 align="center">Hi, I'm Adil Farooque</h1>
+<hr>
+<h4>As a self-taught GoLang developer, I'm on a continuous journey to explore and innovate in the world of programming. My insatiable curiosity drives me to dive deeper into various aspects of technology every day. I'm not just a programmer; I'm a relentless explorer, always pushing the boundaries of what I know.
+</h4>
+
 # 💫 About Me:
 🔭 I’m currently learning on innovative backend solutions using GoLang and the Gin framework.<br>🌱 I’m learning advanced DSA techniques and exploring new technologies.<br>💬 Ask me about GoLang, Gin framework, SQL and NoSQL databases, and backend development<br>📫 How to reach me: Email | LinkedIn
 
