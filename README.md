@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Adil Farooque</h1>
-<hr>
 <h4>As a self-taught GoLang developer, I'm on a continuous journey to explore and innovate in the world of programming. My insatiable curiosity drives me to dive deeper into various aspects of technology every day. I'm not just a programmer; I'm a relentless explorer, always pushing the boundaries of what I know.
 </h4>
 
